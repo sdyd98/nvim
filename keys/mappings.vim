@@ -6,11 +6,16 @@
 " ██║ ╚═╝ ██║██║  ██║██║     ██║     ██║██║ ╚████║╚██████╔╝
 " ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
                                                          
-let mapleader="," 					" Leader 키 매핑
-nnoremap <Leader>rc :rightbelow vnew $MYVIMRC<CR>	" init.vim 키 매핑
+let mapleader=" " 					" Leader 키 매핑
+nnoremap <Leader>rc :rightbelow vnew $MYVIMRC<CR>	" init.vim open 키 매핑
+
+" imap email sdyd98@gmail.com
 
 " nnoremap <C-h> <C-w>h
 " nnoremap <C-j> <C-w>j
 " nnoremap <C-k> <C-w>k
 " nnoremap <C-l> <C-w>l
+" k
+
+
 
