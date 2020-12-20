@@ -18,8 +18,8 @@
  set clipboard=unnamed							" 클립보드 공유
  "set whichwrap+=<,>,[,],h,l				" ?
  set encoding=utf-8									" 인코딩 방식
+ set fileencodings=euc-kr,utf-8			" 파일 인코딩 방식
  "set pumheight=10									" ?
- set fileencoding=utf-8							" 파일 인코딩 방식
  set ruler													" 현재 커서 위치 하단에 표시
  "set cmdheight=2										" Command 입력 줄 수 설정
  set splitbelow											" 수평으로 분리 시킨 새로운 창을 아래로 보낸다.
